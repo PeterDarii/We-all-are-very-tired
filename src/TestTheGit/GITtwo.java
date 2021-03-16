@@ -6,7 +6,6 @@ public class GITtwo {
 	
 		System.out.println("This is GIT");
 		
-	
 		System.out.println("Git Diff");
 		
 	
